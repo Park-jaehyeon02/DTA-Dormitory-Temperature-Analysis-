@@ -14,4 +14,44 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="euler-fluid-cpp-master\src\container.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="euler-fluid-cpp-master\src\ix.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="euler-fluid-cpp-master\src\main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="euler-fluid-cpp-master\src\options.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="euler-fluid-cpp-master\src\physics.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="euler-fluid-cpp-master\src\sim.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="euler-fluid-cpp-master\header\color.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="euler-fluid-cpp-master\header\const.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="euler-fluid-cpp-master\header\container.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="euler-fluid-cpp-master\header\options.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="euler-fluid-cpp-master\header\physics.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="euler-fluid-cpp-master\header\sim.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
